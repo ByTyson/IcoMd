@@ -1,5 +1,8 @@
 # IcoMd
 
+You favori emoji for MarkDown content.
+
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
